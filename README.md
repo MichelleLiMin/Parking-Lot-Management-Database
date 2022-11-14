@@ -1,4 +1,4 @@
-<!-- object-oriented design for a Single floor parking spots-DataBase-Management-System
+Object-oriented design for a Single floor parking spots-DataBase-Management-System
 
 I created a Parking spots project using Python, Postgres, and OOP, CRUD.
 
@@ -13,4 +13,4 @@ The Parking Lot:
 6. 4 classes: class DBManager(manage the database), class Login, class ParkVehicle, class Window
 7. every time park a vehicle, the specific parking spot type is 1 less available, and every time remove a vehicle, the specific parking spot type is 1 more available
 8. to be continued with the payment
- -->
+
