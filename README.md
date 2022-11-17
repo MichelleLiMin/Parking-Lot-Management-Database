@@ -1,4 +1,4 @@
-Object-oriented design for a Single floor parking spots-DataBase-Management-System
+# Object-oriented design for a Single floor parking spots-DataBase-Management-System
 
 I created a Parking spots project using Python, Postgres, and OOP, CRUD.
 
